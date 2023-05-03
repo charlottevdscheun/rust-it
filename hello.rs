@@ -4,6 +4,7 @@ fn main(){
     - Rust does macros with !
     - the ; is back after every line
     - 
+    
     */
 
     let x = 5* 6 /* comment again */ + 1;
